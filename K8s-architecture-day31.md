@@ -4,7 +4,7 @@
 ---
 
 ## Course Information
-- **Channel:** Abhishek Veeramalla (DevOps)
+- **Channel:**  (DevOps)
 - **Video Title:** Day-31 | KUBERNETES ARCHITECTURE USING EXAMPLES
 - **Duration:** 25:30 minutes
 - **Series:** Kubernetes is Easy (DevOps Course)
